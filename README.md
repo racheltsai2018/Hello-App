@@ -5,7 +5,7 @@ The Hello-App is an app that can change the text color, background color, and yo
 
 ### App Walk-though
 <img src="http://recordit.co/rOaQONmAhH" width=200><br>
-
+http://recordit.co/rOaQONmAhH
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
